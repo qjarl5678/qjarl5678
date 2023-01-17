@@ -1,4 +1,4 @@
-<div align=center><h1> 👋Hello, I'm Developer Bamki👋</h2></div>
+<div align=center><h1> 👋Hello, I'm Developer Jimmy Kim👋</h2></div>
 
 <div align=center><h3>🛠STACKS🛠</h2></div>
 <div align=center> 
