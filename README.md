@@ -34,6 +34,6 @@
 </div>
 <br><br>
 <div align=center>
-  <img src="https://github-readme-stats-omega-eight-26.vercel.app/api?username=qjarl5678&show_icons=true&theme=radical&count_private=true&show_icons=true">
-  <img src="https://github-readme-stats-omega-eight-26.vercel.app/api/top-langs/?username=qjarl5678&layout=compact"
+  <img src="https://github-readme-stats-git-main-qjarl5678.vercel.app/api?username=qjarl5678&show_icons=true&theme=radical&count_private=true&show_icons=true">
+  <img src="https://github-readme-stats-git-main-qjarl5678.vercel.app/api/top-langs/?username=qjarl5678&layout=compact"
 </div>
